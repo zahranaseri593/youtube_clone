@@ -34,9 +34,9 @@ export const categories = [
   { name: 'Crypto', icon: <DeveloperModeIcon />, },
 ];
 
-export const demoThumbnailUrl = 'https://i.ibb.co/G2L2Gwp/API-Course.png';
-export const demoChannelUrl = '/channel/UCmXmlB4-HJytD7wek0Uo97A';
-export const demoVideoUrl = '/video/GDa8kZLNhJ4';
-export const demoChannelTitle = 'JavaScript Mastery';
-export const demoVideoTitle = 'Build and Deploy 5 JavaScript & React API Projects in 10 Hours - Full Course | RapidAPI';
-export const demoProfilePicture = 'http://dergipark.org.tr/assets/app/images/buddy_sample.png'
+export const demoThumbnailUrl = 'https://i.ytimg.com/an_webp/CSDBxLUeb2s/mqdefault_6s.webp?du=3000&sqp=CN3-zKMG&rs=AOn4CLB2SjxY4fEnM0p9JbUDHcn_qBXpCA';
+export const demoChannelUrl = '/channel/@carwow';
+export const demoVideoUrl = '/video/CSDBxLUeb2s';
+export const demoChannelTitle = 'carwow';
+export const demoVideoTitle = 'New BMW 5 Series & 600hp i5 REVEALED!';
+export const demoProfilePicture = 'https://yt3.googleusercontent.com/ytc/AGIKgqNMLU-QGM-Fyi7LNm05QIqQywc7XyqUrT2X_pt4Sg=s176-c-k-c0x00ffffff-no-rj'
