@@ -6,13 +6,13 @@ import SportsEsportsIcon from '@mui/icons-material/SportsEsports';
 import LiveTvIcon from '@mui/icons-material/LiveTv';
 import SchoolIcon from '@mui/icons-material/School';
 import FaceRetouchingNaturalIcon from '@mui/icons-material/FaceRetouchingNatural';
-import CheckroomIcon from '@mui/icons-material/Checkroom';
-import GraphicEqIcon from '@mui/icons-material/GraphicEq';
-import TheaterComedyIcon from '@mui/icons-material/TheaterComedy';
-import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
-import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
+import CheckroomIcon from '@mui/icons-material/Checkroom'
+import GraphicEqIcon from '@mui/icons-material/GraphicEq'
+import TheaterComedyIcon from '@mui/icons-material/TheaterComedy'
+import FitnessCenterIcon from '@mui/icons-material/FitnessCenter'
+import DeveloperModeIcon from '@mui/icons-material/DeveloperMode'
 
-export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
+export const logo = 'https://i.ibb.co/s9Qys2j/logo.png'
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
@@ -32,11 +32,11 @@ export const categories = [
   { name: 'Comedy', icon: <TheaterComedyIcon />, },
   { name: 'Gym', icon: <FitnessCenterIcon />, },
   { name: 'Crypto', icon: <DeveloperModeIcon />, },
-];
+]
 
-export const demoThumbnailUrl = 'https://i.ytimg.com/an_webp/CSDBxLUeb2s/mqdefault_6s.webp?du=3000&sqp=CN3-zKMG&rs=AOn4CLB2SjxY4fEnM0p9JbUDHcn_qBXpCA';
-export const demoChannelUrl = '/channel/@carwow';
-export const demoVideoUrl = '/video/CSDBxLUeb2s';
-export const demoChannelTitle = 'carwow';
-export const demoVideoTitle = 'New BMW 5 Series & 600hp i5 REVEALED!';
+export const demoThumbnailUrl = 'https://i.ytimg.com/an_webp/CSDBxLUeb2s/mqdefault_6s.webp?du=3000&sqp=CN3-zKMG&rs=AOn4CLB2SjxY4fEnM0p9JbUDHcn_qBXpCA'
+export const demoChannelUrl = '/channel/@carwow'
+export const demoVideoUrl = '/video/CSDBxLUeb2s'
+export const demoChannelTitle = 'carwow'
+export const demoVideoTitle = 'New BMW 5 Series & 600hp i5 REVEALED!'
 export const demoProfilePicture = 'https://yt3.googleusercontent.com/ytc/AGIKgqNMLU-QGM-Fyi7LNm05QIqQywc7XyqUrT2X_pt4Sg=s176-c-k-c0x00ffffff-no-rj'
