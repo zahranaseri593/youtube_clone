@@ -1,7 +1,7 @@
 ## react practice app
 - material ui
 - react js
-- repidApi free youtube api
+- using free youtube api
 
 # Getting Started with Create React App
 
